@@ -4,4 +4,4 @@ Created by [Aaron White](https://whitechnologies.com/).
 ---
 
 ## Reference
-All tutorials and files courtesy of Wes Bos [Wes Bos](https://javascript30.com/)
+All tutorials and files originally courtesy of [Wes Bos](https://javascript30.com/)
